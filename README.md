@@ -1,4 +1,4 @@
-# Project Spotyfy 2.0
+# Project Spotify 2.0
 
 # Contributing
 
